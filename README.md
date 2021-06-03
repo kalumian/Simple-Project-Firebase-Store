@@ -1,1 +1,1 @@
-# Redux-Simple-Cart-Project
+# Simple React-JS Project With Firebase Store  
